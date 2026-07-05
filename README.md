@@ -89,18 +89,3 @@ Once it's running, open 👉 `http://localhost:3000` (or whatever port you've se
 5. ✅ Once it's fixed, it's marked resolved — and it stays on record for reference.
 
 ---
-
-## 🗺️ Roadmap
-
-> ✏️ *Optional — list what's coming next.*
-- 📧 Email / SMS notifications
-- ⭐ Let students rate how their issue was handled
-- 📱 Mobile-friendly version
-- 📈 Exportable reports for admins
-
----
-
-
----
-
-Made with ☕ and a lot of campus complaints. 🎓
