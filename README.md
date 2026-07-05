@@ -175,6 +175,8 @@ Once it's running, open 👉 `http://localhost:3000` (or whatever port you've se
 | 🛡️ Admin | ✅ | ✅ | ✅ |
 
 ---
+## Architecture
+![CollegeHub issue workflow](./collegehub_workflow_neon.svg)
 
 ## 📖 How It Works
 
