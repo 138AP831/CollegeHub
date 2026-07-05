@@ -8,37 +8,97 @@ Think of it as a help desk built for campus life: a leaking classroom ceiling, a
 
 ---
 
+---
+
 ## 🎮 CollegeHub Triage Challenge
 
-An issue just came in. Can you file it under the right category before checking the answer? Score yourself as you go — 8 rounds, see how many you get right.
+![Triage Challenge](https://img.shields.io/static/v1?label=CollegeHub&message=Triage%20Challenge&color=5ee7ff&labelColor=0a0e14&style=for-the-badge)
 
-**Round 1** — *"Wi-Fi drops every time more than 10 people join the same lecture hall call."*
-<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>IT</b> — easy to misfile as a building issue, but it's a network capacity problem.</details>
+An issue just came in. Pick the right category before you reveal the answer — 8 rounds, track your score as you go.
 
-**Round 2** — *"The ceiling in Room 204 is leaking whenever it rains."*
-<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Facilities</b></details>
-
-**Round 3** — *"Two core courses got scheduled in the same time slot this semester."*
-<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Academics</b></details>
-
-**Round 4** — *"The hostel mess hasn't had hot water for three days."*
-<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Hostel</b></details>
-
-**Round 5** — *"The fee-payment portal keeps timing out at the last step."*
-<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>IT</b></details>
-
-**Round 6** — *"Exam hall seating chart has the same seat assigned to two students."*
-<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Academics</b></details>
-
-**Round 7** — *"Room allocation mix-up left two students without a hostel bed."*
-<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Hostel</b></details>
-
-**Round 8** — *"A tube light has been flickering in the library reading room for a week."*
-<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Facilities</b></details>
+**Category key:**
+![Facilities](https://img.shields.io/static/v1?label=%F0%9F%8F%AB&message=Facilities&color=5ea8ff&labelColor=0a0e14&style=flat-square)
+![IT](https://img.shields.io/static/v1?label=%F0%9F%96%A5%EF%B8%8F&message=IT&color=4dffb8&labelColor=0a0e14&style=flat-square)
+![Academics](https://img.shields.io/static/v1?label=%F0%9F%93%9A&message=Academics&color=ffb84d&labelColor=0a0e14&style=flat-square)
+![Hostel](https://img.shields.io/static/v1?label=%F0%9F%9B%8F%EF%B8%8F&message=Hostel&color=ff5d8f&labelColor=0a0e14&style=flat-square)
 
 <br>
 
-**Scoring:** 7–8 correct → 🛡️ Admin material. 4–6 → 👨‍🏫 Solid teacher instincts. 0–3 → 👩‍🎓 Time to actually use CollegeHub.
+### Round 1
+> 💬 *"Wi-Fi drops every time more than 10 people join the same lecture hall call."*
+
+<details><summary>🔍 Reveal category</summary><br>
+
+![IT](https://img.shields.io/static/v1?label=Answer&message=IT&color=4dffb8&labelColor=0a0e14&style=for-the-badge)
+
+Easy to misfile as a building issue — but it's a network capacity problem.
+</details>
+
+### Round 2
+> 💬 *"The ceiling in Room 204 is leaking whenever it rains."*
+
+<details><summary>🔍 Reveal category</summary><br>
+
+![Facilities](https://img.shields.io/static/v1?label=Answer&message=Facilities&color=5ea8ff&labelColor=0a0e14&style=for-the-badge)
+</details>
+
+### Round 3
+> 💬 *"Two core courses got scheduled in the same time slot this semester."*
+
+<details><summary>🔍 Reveal category</summary><br>
+
+![Academics](https://img.shields.io/static/v1?label=Answer&message=Academics&color=ffb84d&labelColor=0a0e14&style=for-the-badge)
+</details>
+
+### Round 4
+> 💬 *"The hostel mess hasn't had hot water for three days."*
+
+<details><summary>🔍 Reveal category</summary><br>
+
+![Hostel](https://img.shields.io/static/v1?label=Answer&message=Hostel&color=ff5d8f&labelColor=0a0e14&style=for-the-badge)
+</details>
+
+### Round 5
+> 💬 *"The fee-payment portal keeps timing out at the last step."*
+
+<details><summary>🔍 Reveal category</summary><br>
+
+![IT](https://img.shields.io/static/v1?label=Answer&message=IT&color=4dffb8&labelColor=0a0e14&style=for-the-badge)
+</details>
+
+### Round 6
+> 💬 *"Exam hall seating chart has the same seat assigned to two students."*
+
+<details><summary>🔍 Reveal category</summary><br>
+
+![Academics](https://img.shields.io/static/v1?label=Answer&message=Academics&color=ffb84d&labelColor=0a0e14&style=for-the-badge)
+</details>
+
+### Round 7
+> 💬 *"Room allocation mix-up left two students without a hostel bed."*
+
+<details><summary>🔍 Reveal category</summary><br>
+
+![Hostel](https://img.shields.io/static/v1?label=Answer&message=Hostel&color=ff5d8f&labelColor=0a0e14&style=for-the-badge)
+</details>
+
+### Round 8
+> 💬 *"A tube light has been flickering in the library reading room for a week."*
+
+<details><summary>🔍 Reveal category</summary><br>
+
+![Facilities](https://img.shields.io/static/v1?label=Answer&message=Facilities&color=5ea8ff&labelColor=0a0e14&style=for-the-badge)
+</details>
+
+<br>
+
+**Your rank:**
+
+![Admin](https://img.shields.io/static/v1?label=7-8%20correct&message=Admin%20material&color=a98fff&labelColor=0a0e14&style=for-the-badge) 
+![Teacher](https://img.shields.io/static/v1?label=4-6%20correct&message=Solid%20instincts&color=ffb84d&labelColor=0a0e14&style=for-the-badge) 
+![Student](https://img.shields.io/static/v1?label=0-3%20correct&message=Use%20CollegeHub&color=ff5d8f&labelColor=0a0e14&style=for-the-badge)
+
+---
 
 ---
 
