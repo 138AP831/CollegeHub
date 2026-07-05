@@ -6,6 +6,42 @@ Think of it as a help desk built for campus life: a leaking classroom ceiling, a
 
 ---
 
+---
+
+## 🎮 CollegeHub Triage Challenge
+
+An issue just came in. Can you file it under the right category before checking the answer? Score yourself as you go — 8 rounds, see how many you get right.
+
+**Round 1** — *"Wi-Fi drops every time more than 10 people join the same lecture hall call."*
+<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>IT</b> — easy to misfile as a building issue, but it's a network capacity problem.</details>
+
+**Round 2** — *"The ceiling in Room 204 is leaking whenever it rains."*
+<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Facilities</b></details>
+
+**Round 3** — *"Two core courses got scheduled in the same time slot this semester."*
+<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Academics</b></details>
+
+**Round 4** — *"The hostel mess hasn't had hot water for three days."*
+<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Hostel</b></details>
+
+**Round 5** — *"The fee-payment portal keeps timing out at the last step."*
+<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>IT</b></details>
+
+**Round 6** — *"Exam hall seating chart has the same seat assigned to two students."*
+<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Academics</b></details>
+
+**Round 7** — *"Room allocation mix-up left two students without a hostel bed."*
+<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Hostel</b></details>
+
+**Round 8** — *"A tube light has been flickering in the library reading room for a week."*
+<details><summary>🖥️ Facilities · IT · 📚 Academics · 🛏️ Hostel — reveal answer</summary><br>✅ <b>Facilities</b></details>
+
+<br>
+
+**Scoring:** 7–8 correct → 🛡️ Admin material. 4–6 → 👨‍🏫 Solid teacher instincts. 0–3 → 👩‍🎓 Time to actually use CollegeHub.
+
+---
+
 ## ✨ Features
 
 ### 👩‍🎓 For Students
